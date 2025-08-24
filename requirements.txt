@@ -1,0 +1,48 @@
+altair==5.5.0
+attrs==25.3.0
+blinker==1.9.0
+Bottleneck @ file:///C:/b/abs_816hr2khp1/croot/bottleneck_1731058648110/work
+cachetools==6.1.0
+certifi==2025.8.3
+charset-normalizer==3.4.3
+click==8.2.1
+colorama==0.4.6
+gitdb==4.0.12
+GitPython==3.1.45
+idna==3.10
+Jinja2==3.1.6
+jsonschema==4.25.1
+jsonschema-specifications==2025.4.1
+MarkupSafe==3.0.2
+mkl-service==2.4.0
+mkl_fft @ file:///C:/b/abs_64riv3lfyn/croot/mkl_fft_1751310924052/work
+mkl_random @ file:///C:/b/abs_47jvsmau4j/croot/mkl_random_1751310922820/work
+narwhals @ file:///C:/b/abs_224ub5a528/croot/narwhals_1742845975749/work
+numexpr @ file:///C:/b/abs_3buvfgcf6r/croot/numexpr_1755766488094/work
+numpy @ file:///C:/b/abs_81ri0q57xq/croot/numpy_and_numpy_base_1755590863635/work/dist/numpy-1.26.4-cp310-cp310-win_amd64.whl#sha256=b6162b3d8f61a8b10293d275d39feb04e0969ade6c6fdf4251eb84d35b403681
+packaging @ file:///C:/b/abs_f7t3vr2_lo/croot/packaging_1753775377650/work
+pandas @ file:///C:/b/abs_d5idbck212/croot/pandas_1752872294545/work/dist/pandas-2.3.1-cp310-cp310-win_amd64.whl#sha256=aa0d0a8165265b53af6bf391a0e2723d1073ac22447a5bc23ad6e9245c74bfda
+patsy==1.0.1
+pillow==11.3.0
+plotly @ file:///C:/b/abs_13yyfuc6x9/croot/plotly_1744960898545/work
+plotly-express==0.4.1
+protobuf==6.32.0
+pyarrow==21.0.0
+pydeck==0.9.1
+python-dateutil @ file:///C:/b/abs_3au_koqnbs/croot/python-dateutil_1716495777160/work
+pytz @ file:///C:/b/abs_f8wdzeix0n/croot/pytz_1752135878094/work
+referencing==0.36.2
+requests==2.32.5
+rpds-py==0.27.0
+scipy==1.15.3
+six @ file:///C:/b/abs_149wuyuo1o/croot/six_1744271521515/work
+smmap==5.0.2
+statsmodels==0.14.5
+streamlit==1.48.1
+tenacity==9.1.2
+toml==0.10.2
+tornado==6.5.2
+typing_extensions==4.14.1
+tzdata @ file:///croot/python-tzdata_1746123641790/work
+urllib3==2.5.0
+watchdog==6.0.0
