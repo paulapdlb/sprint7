@@ -1,0 +1,5 @@
+Progreso al 24 de agosto:
+- requirements.txt actualizado
+- pandas compatible con Python 3.10
+- app.py pendiente de subir
+- Render configurado con start command: streamlit run app.py
